@@ -1,0 +1,28 @@
+body{
+font:10pt, Verdana;
+}
+form{
+margin:1px;
+}
+form input,form textarea{
+border-style:solid;
+border-width:1px;
+border-color:#404040;
+}
+h1{
+margin:2px;
+}
+h2{
+margin:40px 3px 20px 3px;
+font-size:14pt;
+}
+#hangulime{
+margin-top:20px;
+width:400px;
+height:300px;
+font-size:12pt;
+}
+
+img{
+border:0;
+}
